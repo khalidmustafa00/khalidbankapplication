@@ -18,7 +18,7 @@ This is a secure banking application built using Spring Boot and Spring Security
   - CORS configured for frontend (e.g., `localhost:4200`)
 - **Custom Exception Handling**:
   - Returns JSON responses for `401 Unauthorized` and `403 Forbidden` errors
-  - Headers like `eazybank-error-reason` and `eazybank-denied-reason` included
+  - Headers like `khalidbank-error-reason` and `khalidbank-denied-reason` included
 - **Database**:
   - Uses MySQL
   - Managed via SQLectron
